@@ -1,10 +1,10 @@
-## :gem: Hi there :gem: 
+## Hi there :gem: 
 
-## Aboutme :whale: 
+## Aboutme :cactus: 
 元Web系プログラマー。駄菓子がすき。
 
 ## Learning contents :chart_with_upwards_trend:
-PHP[Laravel] JavaScript[Vue.js] AWS Docker etc...
+AWS Docker
 
 
 <!--
