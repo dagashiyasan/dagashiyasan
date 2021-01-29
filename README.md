@@ -1,4 +1,11 @@
-### Hi there 👋
+## :gem: Hi there :gem: 
+
+## Aboutme :whale: 
+元Web系プログラマー。駄菓子がすき。
+
+## Learning contents :chart_with_upwards_trend:
+PHP[Laravel] JavaScript[Vue.js] AWS Docker etc...
+
 
 <!--
 **dagashiyasan/dagashiyasan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
