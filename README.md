@@ -1,6 +1,6 @@
 ## Hi there :gem: 
 
-## Aboutme :cactus: 
+## Aboutme :rocket:
 元Web系プログラマー。駄菓子がすき。
 
 ## Learning contents :green_book:
