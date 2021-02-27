@@ -1,7 +1,7 @@
 ## Hi there :gem: 
 
 ## Aboutme :rocket:
-元Web系プログラマー。駄菓子がすき。
+web programmer
 
 ## Learning contents :green_book:
 aws,vue,react,python,css
