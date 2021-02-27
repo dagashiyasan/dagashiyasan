@@ -4,7 +4,7 @@
 元Web系プログラマー。駄菓子がすき。
 
 ## Learning contents :chart_with_upwards_trend:
-JSFrameWork AWS Docker
+aws,vue,react,python,css
 
 
 <!--
