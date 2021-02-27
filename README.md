@@ -3,7 +3,7 @@
 ## Aboutme :cactus: 
 元Web系プログラマー。駄菓子がすき。
 
-## Learning contents :chart_with_upwards_trend:
+## Learning contents :green_book:
 aws,vue,react,python,css
 
 
