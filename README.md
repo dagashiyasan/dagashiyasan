@@ -1,10 +1,4 @@
-## Hi there :gem: 
 
-## Aboutme :rocket:
-web programmer
-
-## Learning contents :green_book:
-aws,vue,react,python,css
 
 
 <!--
